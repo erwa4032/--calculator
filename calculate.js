@@ -6,7 +6,7 @@ function d() {
 
 
 
-    document.write("The area is " + twoDecimal(area(num)) + "<br>" + "The perimeter is " + twoDecimal(perimeter(num)));
+    alert("The area is " + twoDecimal(area(num)) + ",  The perimeter is " + twoDecimal(perimeter(num)));
 }
 
 
